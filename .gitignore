@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+.idea/
+.vscode/
+*.log
+*.csv
+*.xlsx
+*.xls
+*.db
+*.sqlite3
+.DS_Store
+
+# Large data files (if you don't want them in Git)
+data/Online Retail.xlsx
+data/Online%20Retail.csv
+data/cleaned_retail.csv
+outputs/*.csv
